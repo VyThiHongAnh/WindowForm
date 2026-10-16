@@ -1,0 +1,4 @@
+2410001|Nguyễn Văn|An|12/03/2006|CTK48|079123456|0901.234.567|Đà Lạt|Nam|Mạng máy tính,Lập trình mạng
+2410003|Vũ Nguyễn Bình|An|17/06/2026|CTK48|099999999|0555.555.555|Đà Lạt|Nam|Hệ điều hành,Lập trình CSDL,Đồ án cơ sở,An toàn và bảo mật hệ thống
+2410002|Vy Thị Hồng |Ánh|22/12/2026|CTK48|098765432|0523.474.904|Đà Lạt|Nữ|Lập trình trên thiết bị di động,An toàn và bảo mật hệ thống
+2110001|Trần Thị|Duyên|17/10/2026|CTK45|057293846|0911.284.753|Lạc Dương|Nữ|Phương pháp NCKH,Lập trình trên thiết bị di động

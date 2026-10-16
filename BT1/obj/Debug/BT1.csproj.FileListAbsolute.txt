@@ -1,0 +1,12 @@
+D:\DESKTOP\ChuDe3\BT1\bin\Debug\BT1.exe.config
+D:\DESKTOP\ChuDe3\BT1\bin\Debug\BT1.exe
+D:\DESKTOP\ChuDe3\BT1\bin\Debug\BT1.pdb
+D:\DESKTOP\ChuDe3\BT1\obj\Debug\BT1.csproj.AssemblyReference.cache
+D:\DESKTOP\ChuDe3\BT1\obj\Debug\BT1.Properties.Resources.resources
+D:\DESKTOP\ChuDe3\BT1\obj\Debug\BT1.csproj.GenerateResource.cache
+D:\DESKTOP\ChuDe3\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+D:\DESKTOP\ChuDe3\BT1\obj\Debug\BT1.exe
+D:\DESKTOP\ChuDe3\BT1\obj\Debug\BT1.pdb
+D:\DESKTOP\ChuDe3\BT1\obj\Debug\BT1.frmSinhVien.resources
+D:\DESKTOP\ChuDe3\BT1\bin\Debug\student.txt
+D:\DESKTOP\ChuDe3\BT1\obj\Debug\BT1.frmTimKiem.resources
